@@ -15,7 +15,7 @@
 * Usando SQL Para Limpeza e Transformação de Dados de Câncer de Mama
 * Como Trabalhar com Grandes e Complexos Conjuntos de Dados?
 * Análise Exploratória de Dados com SQL
-Construindo um Pipeline de Dados Via Programação SQL
+* Construindo um Pipeline de Dados Via Programação SQL
 Otimizando a Performance de Queries Complexas
 Criando um Marketing Analytics Dashboard com Google Data Studio
 Limpando e Processando Dados Defeituosos
